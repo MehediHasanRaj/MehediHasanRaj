@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a Software Engineer. I love Python and Django.
+I am a Software Engineer. I love to work on Java spring boot & python django. I also develop microserives.
 
 * 🌍  I'm based in London City
 * ✉️  You can contact me at [mehedihasanraj007@gmail.com](mailto:mehedihasanraj007@gmail.com)
