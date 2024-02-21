@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a Software Engineer. I love to work on Java Spring Boot and Python Django. I also develop microservices.
+I am a Software Engineer. I love to work on Python mainly Django Framework. Though I am a full-stack developer, I love to maintain the backend. Now, I am also practicing the DevOps
 
 * 🌍  I'm based in London City
 * ✉️  You can contact me at [mehedihasanraj007@gmail.com](mailto:mehedihasanraj007@gmail.com)
-* 🧠  I'm learning spring boot microservices and Django.
+* 🧠  I'm learning Django.
 * 🤝  I'm open to collaborating on Projects
 
 <a href="https://www.github.com/MehediHasanRaj" target="_blank" rel="noreferrer"><img
