@@ -8,7 +8,11 @@
 ---
 
 ## 👨‍💻 About Me
-Java Software Engineer with 2+ years of experience building **scalable backend and microservices applications** using Java, Spring Boot, and Spring Cloud. Skilled in **REST APIs, Docker, Kubernetes, AWS, and secure application development**. Experienced in Agile delivery and producing **production-ready solutions**.  
+Java Software Engineer with 2+ years of experience building **scalable backend and microservices applications** using Java, Spring Boot, and Spring Cloud. Skilled in **REST APIs, Docker, Kubernetes, AWS, and secure application development**. Experienced in Agile delivery and producing **production-ready solutions**. 
+
+* 🌍  I'm based in London City
+* 🧠  I'm learning Spring and Spring boot with AI.
+* 🤝  I'm open to collaborating on Projects and Research
 
 Currently freelancing and seeking **full-time Java roles in the UK**.  
 
