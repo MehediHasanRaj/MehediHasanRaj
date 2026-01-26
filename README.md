@@ -1,46 +1,81 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Md Mehedi Hasan Raj
-===========================================================================================================================================
 
-Software Engineer
------------------
+# Md Mehedi Hasan Raj | Java Software Engineer
 
-I am a Software Engineer. I love to work on Java mainly Spring boot Framework. Though I am a full-stack developer, I love to maintain the backend. Now, I am also practicing the DevOps
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehedi-hasan-raj)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mehedihasanraj)
+[![Email](https://img.shields.io/badge/Email-mehedihasanraj007@gmail.com-blue)](mailto:mehedihasanraj007@gmail.com)
 
-* 🌍  I'm based in London City
-* ✉️  You can contact me at [mehedihasanraj007@gmail.com](mailto:mehedihasanraj007@gmail.com)
-* 🧠  I'm learning Spring and Spring boot.
-* 🤝  I'm open to collaborating on Projects
+---
 
-<a href="https://www.github.com/MehediHasanRaj" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MehediHasanRaj?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+## 👨‍💻 About Me
+Java Software Engineer with 2+ years of experience building **scalable backend and microservices applications** using Java, Spring Boot, and Spring Cloud. Skilled in **REST APIs, Docker, Kubernetes, AWS, and secure application development**. Experienced in Agile delivery and producing **production-ready solutions**.  
 
-### Skills
+Currently freelancing and seeking **full-time Java roles in the UK**.  
 
+---
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-</p>
+## 🛠️ Skills
 
+**Languages & Frameworks:**  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat)  
 
-### Socials
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1942?style=flat&logo=helm&logoColor=white)  
 
-<p align="left"> <a href="https://www.github.com/MehediHasanRaj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mehedi-hasan-raj/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+**Databases & Messaging:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)  
 
-### Badges
+**Testing & Tools:**  
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat) ![Mockito](https://img.shields.io/badge/Mockito-CC0000?style=flat) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/MehediHasanRaj"><img src="https://github-readme-stats.vercel.app/api?username=MehediHasanRaj&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MehediHasanRaj's GitHub stats" /></a>
+## 💼 Experience
 
-<a href="http://www.github.com/MehediHasanRaj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MehediHasanRaj&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+**Java Developer — Freelance** | Jan 2025 – Present  
+Self-Employed (UK, EU & USA)  
+- Delivered scalable backend and microservices solutions using **Spring Boot and Spring Cloud**.  
+- Designed **REST APIs, authentication, and caching**, improving system response times by **25%**.  
+- Deployed applications on **AWS**, Docker, and Kubernetes.  
+- Delivered production-ready solutions independently, consistently meeting client requirements.  
 
-<a href="http://www.github.com/MehediHasanRaj"><img src="https://activity-graph.herokuapp.com/graph?username=MehediHasanRaj&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+**Junior Java Software Engineer** | Aug 2023 – Jan 2025  
+Exsentra Innovation Limited (Remote)  
+- Developed and maintained **Java and Spring Boot backend services**.  
+- Designed secure RESTful APIs with validation and error handling.  
+- Implemented unit and integration tests, improving code quality and reliability.  
+- Collaborated in Agile Scrum teams, delivering features on time.  
 
-<a href="https://github.com/MehediHasanRaj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediHasanRaj&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-<b>Top Repositories</b>
+## 📂 Projects
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+**Smart Bank Platform (Backend)** | Java, Spring Boot, Redis  
+[![Project Badge](https://img.shields.io/badge/Java-SpringBoot-6DB33F?style=flat)](https://github.com/mehedihasanraj)  
+- Built backend services with **authentication, caching, and API integrations**.  
+- Optimized database queries and implemented Redis caching, reducing response times by **30%**.  
+
+**Hotel Rating System (Microservices)** | Java, Spring Boot  
+[![Project Badge](https://img.shields.io/badge/Microservices-REST-00BCD4?style=flat)](https://github.com/mehedihasanraj)  
+- Developed microservices for **reviews, ratings, and user management**.  
+- Integrated inter-service communication and optimized database access for high request volumes.  
+
+---
+
+## 🏆 Certifications & Achievements
+- **Master Spring Boot 3 & Spring Framework 6 with Java (Udemy)** – Expertise in Spring Security, JPA/Hibernate, and AWS deployment.  
+- **Master Microservices with Spring Boot, Docker, Kubernetes (Udemy)** – End-to-end microservices including Eureka, API Gateway, OAuth2, and Helm charts.  
+- **Top 30% globally** in LeetCode & ACM ICPC Regional Contestant  
+
+---
+
+## 📈 GitHub Stats
+![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedihasanraj&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasanraj&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Contact Me
+- Email: [mehedihasanraj007@gmail.com](mailto:mehedihasanraj007@gmail.com)  
+- LinkedIn: [linkedin.com/in/mehedi-hasan-raj](https://linkedin.com/in/mehedi-hasan-raj)  
+- GitHub: [github.com/mehedihasanraj](https://github.com/mehedihasanraj)
